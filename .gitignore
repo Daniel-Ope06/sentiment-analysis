@@ -1,6 +1,5 @@
 # Datasets
-*.csv
-data/
+data/*.csv
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
